@@ -4,7 +4,7 @@
   "description": "Bot-Memo for group-memo",
   "main": "server.js",
   "scripts": {
-    "dev": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules src/server.ts"
+    "dev": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules src/modules/musics/index.ts"
   },
   "author": "MEMO-GROUP",
   "license": "ISC",
